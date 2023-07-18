@@ -269,11 +269,7 @@ footer .footer{
     .apresentacao{
         flex-direction: column-reverse;
     }
-    .apresentacao .texto-apresentacao{
-     
-        width: 100%;
-    }
- 
+    
     #quem-somos{
         flex-direction: column-reverse;
     }
